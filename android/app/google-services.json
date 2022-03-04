@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "625806231514",
+    "firebase_url": "https://fav-songs.firebaseio.com",
+    "project_id": "fav-songs",
+    "storage_bucket": "fav-songs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625806231514:android:80181ac1ee012da13922e3",
+        "android_client_info": {
+          "package_name": "com.hossam.hasanin.fav_songs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625806231514-miu4gjpmkf39v1eluia2vimr1baccjda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD-G1NxO7ddhcQOlN7X6T323sOQs_Ioc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625806231514-miu4gjpmkf39v1eluia2vimr1baccjda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
